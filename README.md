@@ -1,7 +1,6 @@
 ## Hi, I'm Grace! 👋
 
 **g-hamdorf/g-hamdorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
 
 I'm a junior at the University of Iowa studying Marketing and Business Analytics.
 I'm interested in using data, research, and creativity to solve business problems and better understand customers.
