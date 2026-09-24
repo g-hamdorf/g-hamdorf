@@ -6,10 +6,10 @@ I'm a junior at the University of Iowa studying Marketing and Business Analytics
 I'm interested in using data, research, and creativity to solve business problems and better understand customers.
 
 What I'm working on:
-📊 Business analytics and data projects
-📈 Marketing research and strategy
-💻 Python and other technical skills
-🎨 Creative and digital marketing projects
+📊 Business analytics and data projects \n
+📈 Marketing research and strategy \n
+💻 Python and other technical skills \n
+🎨 Creative and digital marketing projects 
 
 Let's connect!
 
